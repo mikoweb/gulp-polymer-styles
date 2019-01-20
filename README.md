@@ -1,17 +1,17 @@
-# gulp-style-modules
+# gulp-polymer-styles
 
 A gulp plugin for wrapping css files into style modules as used by [Polymer](http://polymer-project.org)
 
 ## Install
 
 ```sh
-$ npm install --save-dev gulp-style-modules
+$ npm install --save-dev gulp-polymer-styles
 ```
 
 ## Examples
 
 ```js
-var stylemod = require('gulp-style-modules');
+var stylemod = require('gulp-polymer-styles');
 
 // Wrap css files
 gulp.task("modularize-styles", function() {

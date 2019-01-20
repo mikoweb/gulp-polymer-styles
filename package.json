@@ -1,11 +1,11 @@
 {
-  "name": "gulp-style-modules",
+  "name": "gulp-polymer-styles",
   "description": "Gulp plugin for wrapping css into style modules (as used by Polymer)",
-  "version": "0.1.0",
-  "homepage": "http://github.com/maklesoft/gulp-style-modules/",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mikoweb/gulp-polymer-styles",
   "repository": {
     "type": "git",
-    "url": "http://github.com/maklesoft/gulp-style-modules.git"
+    "url": "https://github.com/mikoweb/gulp-polymer-styles.git"
   },
   "author": "Martin Kleinschrodt <martin@maklesoft.com>",
   "main": "./index.js",
